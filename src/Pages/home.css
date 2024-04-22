@@ -1,0 +1,37 @@
+.home{
+    padding: 3rem;
+}
+
+.home .home-title{
+    margin-bottom: 3rem;
+    font-size: 30px;
+    
+}
+
+.home .home-list h2{
+    padding-bottom: 2rem;
+
+}
+
+
+/*individual routes*/
+
+
+.route-details h1{
+    margin-top: 1rem;
+    margin-bottom: 25px;
+}
+
+.route-details .block-detail{
+    padding: 15px;
+}
+
+.route-details button{
+    padding: 10px 10px;
+    border-radius: 8px;
+    background-color: white;
+}
+
+.route-details button:hover{
+    background-color: #ddf3ff;
+}
